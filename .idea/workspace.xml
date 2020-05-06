@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="49fb2bfd-1183-4e13-a6d9-b9c1533f68f6" name="Default Changelist" comment="" />
+    <list default="true" id="49fb2bfd-1183-4e13-a6d9-b9c1533f68f6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/edu/ucsd/cs110/tests/CelsiusTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/edu/ucsd/cs110/tests/CelsiusTest.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +17,9 @@
         <option value="JUnit4 Test Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1bEXE1kMlmHeuPVnPiV8atrk4hK" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -109,6 +115,7 @@
       <updated>1588198111357</updated>
       <workItem from="1588198119862" duration="1876000" />
       <workItem from="1588798341894" duration="3095000" />
+      <workItem from="1588803112569" duration="33000" />
     </task>
     <servers />
   </component>
@@ -164,10 +171,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1877" height="348" key="GridCell.Tab.1.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588802427469" />
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1588798349456">
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1588803111280">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588798349456" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1588803111280" />
     <state x="665" y="413" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD" timestamp="1588800904369">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
